@@ -18,7 +18,7 @@ Thank you!
 
 Here’s what you can find in this repository:
 
-#### [`1.Final.Presentation.pdf`](https://github.com/pieropls/Work.Hours.and.Income-Effects.on.Sleep/blob/main/1.Thesis.pdf)
+#### [`1.Final.Presentation.pdf`](https://github.com/pieropls/LinkedIn.IPO/blob/main/Presentation.pdf)
 Des3
 
 #### [`2.Code.ipynb`](https://github.com/pieropls/Work.Hours.and.Income-Effects.on.Sleep/blob/main/2.Code.R)
